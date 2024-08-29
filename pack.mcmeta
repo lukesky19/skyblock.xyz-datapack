@@ -1,6 +1,11 @@
 {
-  "pack": {
-    "pack_format": 18,
-    "description": "Custom loot tables for the skyblock.xyz server."
-  }
+    "pack": {
+        "pack_format": 48,
+        "description": [
+			{
+				"text": "Custom loot tables for the skyblock.xyz server.",
+				"color": "white"
+			}
+		]
+    }
 }
