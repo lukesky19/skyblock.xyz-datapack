@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["minecraft:barrier"],
+  "result": {
+    "id": "minecraft:pumpkin_pie"
+  }
+}
